@@ -33,4 +33,27 @@
 ![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1705).png)
 # 6.Latihan Praktikum 6
 ![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1706).png)
-
+# Modul 3
+# 1.Latihan Praktikum 1
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1710).png)
+# 2.Latihan Praktikum 2
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1711).png)
+# 3.Latihan Praktikum 3
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1712).png)
+# 4.Latihan Praktikum 4
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1713).png)
+# 5.Latihan Praktikum 5
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1714).png)
+# 6.Latihan Praktikum 6
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1715).png)
+# Modul 4
+# 1.Latihan Praktikum 1
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1716).png)
+# 2.Latihan Praktikum 2
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1717).png)
+# 3.Latihan Praktikum 3
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1718).png)
+# 4.Latihan Praktikum 4
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1719).png)
+# 5.Latihan Praktikum 5
+![Alt Text](https://github.com/ariannnnnnn/praktikum-php/blob/master/Modul%204/Screenshot%20(1720).png)
