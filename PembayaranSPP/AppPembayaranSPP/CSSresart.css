@@ -1,0 +1,52 @@
+
+div.article{
+    width: 90%;
+    margin-top: 250px;
+    margin-right: auto;
+    margin-left: 500px;
+    column-count: 1;
+    column-gap: 30px;
+    column-rule-style: solid;
+    column-rule-width: 2px;
+    column-rule-color: #000;
+    background: whitesmoke;
+    color:black;padding:10px;
+    text-align: left;
+}
+div.secondarticle{
+    border-color: whitesmoke;
+    color: whitesmoke;
+}
+	input[type="text"] {
+	
+	margin-bottom: 1px;
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+	}
+
+	input[type="password"] {
+	margin-bottom: 20px;
+	border-top-left-radius: 0;
+	border-top-right-radius: 0;
+	}
+
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
